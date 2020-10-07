@@ -35,3 +35,4 @@
 | GitLab | |
 | Dependabot | |
 | Circle CI | |
+| [Shell Scripting](ShellScripting.md) | [Pranjal Srivastava](https://github.com/pranjals149) |
